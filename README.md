@@ -64,7 +64,7 @@ The following links lead to github repository with the project and application l
 
 https://github.com/vikramadityad/WhatsforDinner
 
-Live URL: https://vikramadityad.github.io/WhatsforDinner/index.html
+Live URL: https://dialla23.github.io/WhatsforDinner/
 
 
 ## Built With:
